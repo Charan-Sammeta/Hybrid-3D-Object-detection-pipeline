@@ -2,7 +2,7 @@
 
 This repository implements a state-of-the-art Hybrid 3D Object Detection approach, leveraging both Bird's Eye View (BEV) images and direct point cloud analysis to enhance object detection accuracy.
 
-![Alt Text](ref image.png)
+![Alt Text](ref_image.png)
 
 
 ## Project Structure
