@@ -1,0 +1,8 @@
+# Ignore dataset and processed files
+sweeps/
+samples/
+maps/
+eval_results/
+
+# Ignore compiled cache
+__pycache__/
