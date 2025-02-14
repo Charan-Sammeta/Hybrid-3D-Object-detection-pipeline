@@ -2,6 +2,9 @@
 
 This repository implements a state-of-the-art Hybrid 3D Object Detection approach, leveraging both Bird's Eye View (BEV) images and direct point cloud analysis to enhance object detection accuracy.
 
+![Alt Text](D:\nuscenes\Hybrid-3D-Object-Detection-Pipeline\ref image.png)
+
+
 ## Project Structure
 ```
 NUSCENES
